@@ -1,9 +1,9 @@
 # About
-这是慕课网上[Vue+Webpack打造todo应用](https://www.imooc.com/learn/935)课程的源码
+这是根据慕课网上Jokcy的Vue付费课程敲下来的一个Vue项目，涵盖了比较高级的服务端渲染，vue全家桶，高级组件开发的一个Todo项目
 
 # 使用方法
 ```
-git clone https://github.com/Jokcy/vue-todo-tech.git
+git clone https://github.com/luvletterldl/vue-myTodo
 ```
 进入项目目录，运行
 ```
